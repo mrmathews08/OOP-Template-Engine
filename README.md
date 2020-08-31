@@ -24,6 +24,10 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
 ```
+![Untitled_ Aug 30, 2020 9_00 PM](https://user-images.githubusercontent.com/65747246/91679010-4ba93b80-eb04-11ea-92c0-2108cdf4bb23.gif)
+
+
+https://drive.google.com/file/d/1KrEbomPN5f4VStFZLS2KhOxUKxZPK2tL/view
 
 The application will then render the team on an HTML page that will look like this:
 
